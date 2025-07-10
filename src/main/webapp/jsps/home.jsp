@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Mithun Technologies</h1>
 <h1 align="center">Phone Number: +91 9980923216</h1>
-<h1 align="center">Mithun Technologies is a Very Good Training Center for DevOps, Docker, Cloud, Ansible, Kubernetes and Terraform</h1>
+<h1 align="center">Mithun Technologies is a VeryTraining Center for DevOps, Docker, Cloud, Ansible, Kubernetes and Terraform</h1>
 
 <h1 align="center">Trainer Name: Sowndarya</h1>
 
